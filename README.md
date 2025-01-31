@@ -16,3 +16,4 @@
 | [Дэшборды](https://github.com/Swagozavr/Personal-Projects/blob/main/%D0%94%D1%8D%D1%88%D0%B1%D0%BE%D1%80%D0%B4%D1%8B/Dashboards%20Explained%20Here.md) | Нажмите на ссылку, чтобы открыть таблицу со сделанными мной дэшбордами | `🟨 Яндекс Практикум` |
 
 # Сертификат
+![Картинка](https://sun9-79.userapi.com/impg/ue8KVmjPS1PJbA4pjkdudIYP2VgE78fiCRIunA/EYx92FPgr7k.jpg?size=1781x1266&quality=95&sign=8fef3704b8b2b9ef5b9e4b99e75f01c6&type=album)
