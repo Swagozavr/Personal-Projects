@@ -2,7 +2,7 @@
 Проекты, которые я выполнил во время обучения аналитике
 | Название | Описание | Выполнен в рамках |
 |---------|----------|----------------------|
-| [`Исследовательский анализ данных`](https://git-scm.com/docs/git-init) |  | `git init` |
+| [Исследовательский анализ данных](https://git-scm.com/docs/git-init) |  | `git init` |
 | [`Статистический анализ данных`](https://git-scm.com/docs/git-clone) | Клонирование репозитория | `git clone https://github.com/user/repo.git` |
 | [`Сборный проект - 1`](https://git-scm.com/docs/git-add) | Добавление файлов в индекс | `git add file.txt` |
 | [`Анализ бизнес-показателей`](https://git-scm.com/docs/git-commit) | Фиксация изменений | `git commit -m "Сообщение"` |
